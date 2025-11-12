@@ -1,6 +1,4 @@
-import { evaluate, parse } from "mathjs";
 import promptSync from "prompt-sync";
-import { plot } from "nodeplotlib";
 
 const prompt = promptSync();
 
