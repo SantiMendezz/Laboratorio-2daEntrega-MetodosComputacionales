@@ -1,4 +1,3 @@
-// gauss_jordan_produccion.js
 // Gauss-Jordan paso a paso para el sistema de producción
 // Sistema:
 // 4.3 x + 3   y + 2   z = 960
